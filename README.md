@@ -14,5 +14,5 @@ system offers a solution by providing a collaborative platform that facilitates 
 
 # App preview
 
-<img width="3840" alt="flow charts owner" src="https://github.com/abdo6400/real_state_app_using_flutter/assets/84652350/c9b39b52-a981-4e6f-9111-deb447a94feb">
+<img width="3840" alt="app preview" src="https://github.com/abdo6400/real_state_app_using_flutter/assets/84652350/c9b39b52-a981-4e6f-9111-deb447a94feb">
 
